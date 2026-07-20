@@ -112,7 +112,7 @@ O investidor empresta dinheiro para um emissor e recebe o valor aplicado acresci
 
 ### Melhoria realizada:
 
-Ficou melhor organizadoe em tópicos facilitando o entendimento para um iniciante.
+Ficou melhor organizado em tópicos facilitando o entendimento para um iniciante.
 
 ## Prompt 3 - Comparação dos investimentos de renda fixa
 
@@ -137,21 +137,143 @@ Inicialmente, comparar os investimentos de renda fixa apenas pela rentabilidade 
 
 ### Aprendizado:
 
-A comparação mostrou que investimentos de renda fixa possuem características diferentes. Apesar de todos terem regras de remuneração definidas, existem diferenças importantes relacionadas ao emissor, risco, liquidez e garantiase e objetivos de cada investidor.
+A comparação mostrou que investimentos de renda fixa possuem características diferentes. Apesar de todos terem regras de remuneração definidas, existem diferenças importantes relacionadas ao emissor, risco, liquidez e garantias e objetivos de cada investidor.
 
 
+## Miniguia de Estudo
+
+### O que é Renda Fixa?
+
+Renda fixa é uma modalidade de investimento em que o investidor empresta dinheiro para um emissor, como o governo, um banco ou uma empresa, recebendo em troca uma remuneração previamente definida ou vinculada a um indicador econômico. Em comparação com a renda variável, oferece maior previsibilidade dos rendimentos e costuma ser indicada para investidores que buscam mais segurança.
+
+---
+
+### Como funciona?
+
+Ao investir em um título de renda fixa, o investidor financia o emissor por um determinado período. Em troca, recebe o valor investido acrescido de juros no vencimento ou conforme as regras do investimento.
+
+A rentabilidade pode ser:
+
+- **Prefixada:** taxa definida no momento da aplicação.
+- **Pós-fixada:** acompanha um indicador, como CDI ou Selic.
+- **Híbrida:** combina uma taxa fixa com um índice de inflação, como o IPCA.
+
+---
+
+### Principais investimentos
+
+### Tesouro Direto
+
+- Emitido pelo Governo Federal.
+- Considerado um dos investimentos mais seguros do país.
+- Indicado para reserva de emergência e objetivos a longo prazo.
+
+### CDB
+
+- Emitido por bancos.
+- Pode possuir rentabilidade prefixada, pós-fixada ou híbrida.
+- Conta com proteção do FGC dentro dos limites estabelecidos.
+
+### LCI e LCA
+
+- Emitidas por instituições financeiras.
+- Destinadas ao financiamento dos setores imobiliário e do agronegócio.
+- Possuem isenção de Imposto de Renda para pessoas físicas, conforme a legislação vigente.
+
+### Debêntures
+
+- Emitidas por empresas.
+- Geralmente oferecem maior potencial de retorno, porém apresentam maior risco.
+- Não possuem cobertura do FGC.
+
+---
+
+### Vantagens
+
+- Maior previsibilidade dos rendimentos.
+- Diversas opções de investimento.
+- Possibilidade de proteção contra a inflação.
+- Alternativas com alta segurança.
+
+---
+
+###b Riscos
+
+- Risco de crédito.
+- Risco de mercado.
+- Risco de liquidez.
+
+## Glossário
+
+**CDI**  
+Taxa utilizada como referência para diversos investimentos de renda fixa.
+
+**Selic**  
+Taxa básica de juros da economia brasileira.
+
+**IPCA**  
+Índice oficial utilizado para medir a inflação no Brasil.
+
+**FGC (Fundo Garantidor de Créditos)**  
+Instituição que protege investidores em determinados produtos financeiros dentro dos limites previstos na regulamentação.
+
+**Liquidez**  
+Facilidade de transformar um investimento em dinheiro.
+
+**Rentabilidade**  
+Retorno obtido por um investimento.
+
+**Prefixado**  
+Título cuja taxa de rendimento é conhecida no momento da aplicação.
+
+**Pós-fixado**  
+Título cuja rentabilidade acompanha um indicador econômico.
+
+**Híbrido**  
+Título que combina uma taxa fixa com um índice de inflação.
+
+**Tesouro Direto**  
+Programa de compra de títulos públicos emitidos pelo Governo Federal.
+
+## Prompts Reutilizáveis
+
+### Prompt 1
+
+Explique o que é renda fixa para uma pessoa que nunca investiu. Utilize as fontes fornecidas e apresente exemplos práticos.
 
 
+### Prompt 2
+Explique renda fixa para um estudante iniciante de tecnologia, organizando a resposta em:
+
+- definição;
+
+- funcionamento;
+
+- exemplos;
+
+- vantagens;
+
+- riscos;
+
+- cuidados.
+
+### Prompt 3
 
 
+Compare os principais investimentos de renda fixa (Tesouro Direto, CDB, LCI, LCA e Debêntures) utilizando as fontes fornecidas.
+Organize a resposta em uma tabela contendo:
 
+- O que é;
 
+- Quem emite;
 
+- Como funciona a rentabilidade;
 
+- Nível de risco;
 
+- Possui garantia do FGC ou não;
 
-
-
+- Indicação para qual perfil de investidor.
 
 
 
