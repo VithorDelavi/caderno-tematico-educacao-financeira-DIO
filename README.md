@@ -1,5 +1,7 @@
 # Caderno Temático: Renda Fixa para Iniciantes
 
+Nome: Vithor Delavi
+
 ## Contexto e Objetivos
 
 Este projeto foi desenvolvido com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa para aprofundar meus conhecimentos sobre renda fixa.
